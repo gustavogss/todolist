@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="titulo">LISTA DE TAREFAS</string>
+    <string name="version">Versão 1.0</string>
+    <string name="txtcriartask">Criar Tarefa</string>
+    <string name="til_titulo">Titulo</string>
+    <string name="til_descricao">Descrição</string>
+    <string name="til_data">Data</string>
+    <string name="til_hora">Hora</string>
+    <string name="txt_btncacelartask">Cancelar</string>
+    <string name="txt_btncriartask">Criar Tarefa</string>
+    <string name="txtnova_tarefa">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Excluir</string>
+    <string name="label_empty">Ops! Você não possui nenhuma tarefa</string>
+    <string name="txttask">Tarefas</string>
+</resources>
