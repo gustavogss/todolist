@@ -1,5 +1,5 @@
-# todolist
-Aplicativo de lista de tarefas feito durante o Bootcamp Mobile do Santander em parceria com a DIO
+# Organizer
+Aplicativo do tipo lista de tarefas feito durante o Bootcamp Mobile do Santander em parceria com a DIO
 
 ### Tecnologias e Ferramentas utilizadas:
 - Android Studio
