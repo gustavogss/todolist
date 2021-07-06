@@ -1,7 +1,7 @@
-# Organizer
+# :iphone:  Projeto
 Aplicativo do tipo todolist (lista de tarefas) feito durante o Bootcamp Mobile do Santander em parceria com a DIO
 
-### Tecnologias e Ferramentas utilizadas:
+### :robot: Tecnologias e Ferramentas utilizadas:
 - Android Studio
 - Kotlin
 - Lottie Files API para animações
@@ -9,6 +9,8 @@ Aplicativo do tipo todolist (lista de tarefas) feito durante o Bootcamp Mobile d
 - Recyclerview
 - Cardview
 - Material Design
+
+## :star2: Layout
 
 [![1.md.png](https://gustavosouza.dev.br/images/images/2021/07/01/1.md.png)](https://gustavosouza.dev.br/images/image/FAId)
 [![2.md.png](https://gustavosouza.dev.br/images/images/2021/07/01/2.md.png)](https://gustavosouza.dev.br/images/image/FhUz)
