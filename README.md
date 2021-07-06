@@ -10,9 +10,7 @@ Aplicativo do tipo todolist (lista de tarefas) feito durante o Bootcamp Mobile d
 - Cardview
 - Material Design
 
-## :star2: Layout
-
-[![organazer.md.gif](https://gustavosouza.dev.br/images/images/2021/07/06/organazer.md.gif)](https://gustavosouza.dev.br/images/image/FxCh)
+## :star2: Layout:
 
 [![1.md.png](https://gustavosouza.dev.br/images/images/2021/07/01/1.md.png)](https://gustavosouza.dev.br/images/image/FAId)
 [![2.md.png](https://gustavosouza.dev.br/images/images/2021/07/01/2.md.png)](https://gustavosouza.dev.br/images/image/FhUz)
