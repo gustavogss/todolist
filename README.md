@@ -1,4 +1,4 @@
-#   Projeto :iphone:
+#   Projeto toDoList :rocket:
 Aplicativo do tipo todolist (lista de tarefas) feito durante o Bootcamp Mobile do Santander em parceria com a DIO
 
 ### Tecnologias e Ferramentas utilizadas :robot: 
@@ -19,3 +19,7 @@ Aplicativo do tipo todolist (lista de tarefas) feito durante o Bootcamp Mobile d
 - Habilite a função desenvolvedor de seu celular
 - Assim que o Android reconhecer seu celular, basta executar o projeto na seta verde na barra de tarefas
 - Maiores informações como executar via dispositivo [clique aqui](https://www.youtube.com/watch?v=aRFmmByY7k8)
+
+## Aplicativo :iphone:
+
+![7](https://user-images.githubusercontent.com/20332960/216518909-85112b67-6b80-42ae-847b-7cde08b367ee.png)
